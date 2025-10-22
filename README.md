@@ -30,6 +30,6 @@ The objective is to manually implement **Ordinal Encoding**, **One-Hot Encoding*
 - Pandas
 
 # Author
-**Name:** [Rishabh Verma]  
+**Name:** Rishabh Verma 
 **Institute:** Delhi Technological University  
 **Date:** October 2025
