@@ -31,6 +31,5 @@ The objective is to manually implement **Ordinal Encoding**, **One-Hot Encoding*
 
 # Author
 **Name:** Rishabh Verma
-
 **Institute:** Delhi Technological University  
 **Date:** October 2025
